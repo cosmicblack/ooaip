@@ -1,3 +1,6 @@
+# ExceptionHandlerFindStrategy
+[![codecov](https://codecov.io/gh/cosmicblack/ooaip/branch/ExceptionHandlerFindStrategy/graph/badge.svg?token=1X96NIDNVI)](https://codecov.io/gh/cosmicblack/ooaip)
+
 # MacroCommandInitialization
 [![codecov](https://codecov.io/gh/cosmicblack/ooaip/branch/MacroCommandInitialization/graph/badge.svg?token=1X96NIDNVI)](https://codecov.io/gh/cosmicblack/ooaip)
 
